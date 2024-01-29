@@ -12,3 +12,6 @@ User-Friendly Interface: Easy-to-use console interface for managing inventory op
 - Requirements
 Java JDK 8 or higher.
 No external libraries are required for the basic functionality.
+
+- Use Case Diagram
+  ![UseCaseDiagram](https://github.com/Toukir-Hasan/coen-6312/assets/115115021/ea6b7f05-703c-4860-9976-8f081868722f)
